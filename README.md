@@ -1,21 +1,19 @@
-### Welcome to Saled's GitHub 🌟
+### Welcome to Saled Labs
 
 I'm **Saled**, an amateur game developer, digital artist, and perpetually curious mind.
 
-### 🎮 What I'm Up To
+---
 
-As a game developer, I'm currently learning how to bring my imaginary worlds to life using StackBlitz, mainly with TypeScript and ThreeJS projects. Check out my repositories for snippets of my journey in game development.
+### What I'm Up To
 
-### 🎨 Digital Artwork
+I recently took a jump into Game Dev using Godot. My current main project is Project-Sino and the development is on going. More details to be shared soon.
+
+### Digital Artwork
 
 When I'm not coding, I'm likely drawing in Procreate. My art is influenced by everything from classic video games to contemporary abstract art.
 
-### 📂 My Projects
+### My Projects
 
-- **Scapeith** An RPG game built with Unity, inspired by RuneScape.
-- **Millionaire Moguls**: A card game about the stock market.
-- **SyTACT**: An online web-based FPS.
+- **Project-Sino** A multiplayer casino game set on a space station. Currently being built in Godot 4.6. All art and 3D modeling is done by me.
 
 ---
-
-Keep exploring and stay curious! 🚀
