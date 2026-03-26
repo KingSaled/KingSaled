@@ -1,4 +1,4 @@
-# [Your Name] | Founder at Saled Labs
+# King Saled | Founder of Saled Labs
 
 ### Tech Stack & Tools
 <p align="left">
