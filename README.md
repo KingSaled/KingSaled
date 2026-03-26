@@ -3,7 +3,6 @@
 ### Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Engine-Godot_4.6-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-GDScript?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Modeling-Blockbench-3DBBFC?style=for-the-badge&logo=box&logoColor=white" />
   <img src="https://img.shields.io/badge/Networking-Multiplayer-orange?style=for-the-badge" />
 </p>
