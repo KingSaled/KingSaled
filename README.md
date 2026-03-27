@@ -33,8 +33,6 @@ This is an Idle RPG heavily inspired by Runescape and Melvor Idle but built arou
 ### GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KingSaled&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" width="48%" alt="KingSaled GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KingSaled&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
