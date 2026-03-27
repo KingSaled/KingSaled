@@ -29,3 +29,10 @@ You play as a floating CRT robot and can interact with s variety of casino games
 This is an Idle RPG heavily inspired by Runescape and Melvor Idle but built around my own world of Etivar, a large cotinent with 6 major cities including the capital of Etivar, Avloham. Featuring 14 different skills to train, combat, and a variety of things to explore on your own!
 
 ---
+
+### GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KingSaled&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="KingSaled GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KingSaled&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
