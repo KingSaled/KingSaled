@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="IMG_1389.png" width="200" alt="Saled Labs Logo">
+</p>
+
+
 # King Saled | Founder of Saled Labs
 
 ### Tech Stack & Tools
