@@ -19,7 +19,7 @@
 * Built with a focus on light weight and performance
 * Low poly art and textures done by me
 
-You play as a floating CRT robot and can interact with s variety of casino games. The twist is, instead of gross micro-transactions, when you run out of money on the casino floor, there is a variety of carnival / arcade games to earn tickets. Convert those tickets back into cash and you're right back out there at the tables!
+You play as a floating CRT robot and can interact with a variety of casino games. The twist is, instead of gross micro-transactions, when you run out of money on the casino floor, there is a variety of carnival / arcade games to earn tickets. Convert those tickets back into cash and you're right back out there at the tables!
 
 **Scapeith Idle** A web based idle RPG.
 
