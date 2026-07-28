@@ -28,7 +28,12 @@ You play as a floating CRT robot and can interact with a variety of casino games
 
 This is an Idle RPG heavily inspired by Runescape and Melvor Idle but built around my own world of Etivar, a large cotinent with 6 major cities including the capital of Etivar, Avloham. Featuring 14 different skills to train, combat, and a variety of things to explore on your own!
 
-**The Bone Sieve** A web based roguelite dice game
+**The Bone Sieve** Web-Based Roguelite Dice Game
+
+* Lightweight HTML with smooth, snappy animations
+* Original hand-drawn artwork
+
+Roll dice to feed the sieve and descend deeper into the pit. Draft new relics, upgrade your dice, and tweak your build with every run. Currently in open BETA with all relics and upgrades unlocked.
 
 ---
 
